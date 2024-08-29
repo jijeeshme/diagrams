@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YE06W6ZZn4gWqMYC4syV-15" value="Content&amp;nbsp;&lt;div&gt;Approver&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-91-128.png;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="529" y="-336.5" width="36.5" height="36.5" as="geometry" />
+          <mxGeometry x="529" y="-337.5" width="36.5" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="YE06W6ZZn4gWqMYC4syV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" parent="1" source="YE06W6ZZn4gWqMYC4syV-16" target="YE06W6ZZn4gWqMYC4syV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="uaR8pxXRsDbBL3pKC-9q-11" value="Default&lt;div&gt;Approver&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-91-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="-336" width="36.5" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uaR8pxXRsDbBL3pKC-9q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" edge="1" parent="1" source="uaR8pxXRsDbBL3pKC-9q-20" target="YE06W6ZZn4gWqMYC4syV-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uaR8pxXRsDbBL3pKC-9q-20" value="Content&amp;nbsp;&lt;div&gt;Check&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="1">
           <mxGeometry x="444" y="-340.49" width="34" height="40.48" as="geometry" />
