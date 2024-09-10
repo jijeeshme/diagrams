@@ -80,7 +80,7 @@
         <mxCell id="77e6c97f196da883-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;PR Merge&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="50" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-13" value="Validate" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="77e6c97f196da883-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Validate&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="40" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-QMjb-365ucLHek7Qsb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-4" source="xj1-G3i19I13nu__vCrl-5" target="77e6c97f196da883-13">
@@ -141,7 +141,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xj1-G3i19I13nu__vCrl-77" value="Validate" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="xj1-G3i19I13nu__vCrl-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Validate&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="50" y="650" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj1-G3i19I13nu__vCrl-80" value="Complete" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-5" vertex="1">
