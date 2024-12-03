@@ -92,8 +92,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YE06W6ZZn4gWqMYC4syV-35" value="&lt;b&gt;Security Scan - Automation&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-480" width="180" height="30" as="geometry" />
+        <mxCell id="YE06W6ZZn4gWqMYC4syV-35" value="&lt;b&gt;Sensitive Data Scan - EDW Extraction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-480" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uaR8pxXRsDbBL3pKC-9q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" parent="1" source="YE06W6ZZn4gWqMYC4syV-7" target="YE06W6ZZn4gWqMYC4syV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
