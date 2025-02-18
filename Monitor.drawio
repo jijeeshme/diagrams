@@ -22,7 +22,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-A37LQIsE4QHnwAx1lAB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;strokeColor=light-dark(#ffd500, #ededed);" vertex="1" parent="1">
+        <mxCell id="-A37LQIsE4QHnwAx1lAB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;strokeColor=light-dark(#ffd500, #ededed);" vertex="1" parent="1">
           <mxGeometry x="350" y="244" width="230" height="152.2" as="geometry" />
         </mxCell>
         <mxCell id="ljl5ft7ZTBluvvlXeNtD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;strokeColor=#3399FF;" parent="1" vertex="1">
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-A37LQIsE4QHnwAx1lAB-20" value="Dashboard" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dashboard_Hub.svg;imageBackground=default;" vertex="1" parent="1">
+        <mxCell id="-A37LQIsE4QHnwAx1lAB-20" value="Dashboards" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dashboard_Hub.svg;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="68" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-A37LQIsE4QHnwAx1lAB-21" value="&lt;b&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;Platform Applications&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
